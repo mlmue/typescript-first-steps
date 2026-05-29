@@ -1,4 +1,3 @@
-
 type ID = string | number;
 
 type RSVP = {
